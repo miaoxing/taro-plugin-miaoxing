@@ -1,0 +1,19 @@
+{
+  "name": "taro-plugin-miaoxing",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "jest": {
+    "preset": "jest-preset-miaoxing"
+  },
+  "dependencies": {
+    "@tarojs/service": "^3.2.10"
+  },
+  "devDependencies": {
+    "@miaoxing/dev": "^7.0.1"
+  }
+}
