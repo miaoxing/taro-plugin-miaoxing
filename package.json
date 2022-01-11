@@ -11,7 +11,7 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@tarojs/service": "^3.2.10",
+    "@tarojs/service": "^3.2.20",
     "@gitsync/log": "^0.4.0",
     "glob": "^7.1.6"
   },
