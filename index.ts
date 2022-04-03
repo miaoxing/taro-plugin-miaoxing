@@ -89,10 +89,10 @@ export default (ctx: IPluginContext, options: IPluginOptions): void => {
 
     // 软链插件中的页面到 src/pages 中
     symlinkPages();
-    watchSymlinkPages(ctx);
+    ctx.runOpts.options.isWatch && watchSymlinkPages(ctx);
 
     // 自动生成页面列表
     generatePages(options.pageGlob, options.indexPage);
-    watchGeneratePages(ctx, options);
+    ctx.runOpts.options.isWatch && watchGeneratePages(ctx, options);
   });
 };
