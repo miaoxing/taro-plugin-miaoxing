@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.3...v0.1.4) (2022-04-30)
+
+
+### Bug Fixes
+
+* **taro-plugin-miaoxing:** build 后未退出进程 ([b518c7c](https://github.com/miaoxing/taro-plugin-miaoxing/commit/b518c7cb74b25b08012e5c03ae100de23da40017))
+
 ## [0.1.3](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
