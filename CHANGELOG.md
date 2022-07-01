@@ -1,3 +1,13 @@
+## [0.1.6](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.5...v0.1.6) (2022-07-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.5](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.4...v0.1.5) (2022-06-01)
 
 
