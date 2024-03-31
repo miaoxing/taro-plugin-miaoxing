@@ -1,6 +1,6 @@
 {
   "name": "taro-plugin-miaoxing",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -16,6 +16,6 @@
     "glob": "^7.1.6"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.1.0"
+    "@miaoxing/dev": "^9.1.1"
   }
 }
