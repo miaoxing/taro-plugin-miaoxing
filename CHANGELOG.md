@@ -1,3 +1,13 @@
+## [0.1.18](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.17...v0.1.18) (2024-09-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [0.1.17](https://github.com/miaoxing/taro-plugin-miaoxing/compare/v0.1.16...v0.1.17) (2024-08-03)
 
 
